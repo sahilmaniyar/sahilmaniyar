@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning different technologies related to front-end.
 - 💞️ I’m looking to collaborate on the design or client-side part of the projects, however I might also help with the documentation stuff. 
 - 📫 How to reach me
-- LinkedIn: [sahilrmaniyar](www.linkedin.com/in/sahilrmaniyar)
+- LinkedIn: [sahilrmaniyar](https://www.linkedin.com/in/sahilrmaniyar)
 - Mail: [sahil.maniyar844@gmail.com](mailto:sahil.maniyar844@gmail.com)
 - 
 
