@@ -57,12 +57,7 @@
 ### 📫 How to reach me:
 
 
-<div id="badges">
-    <a href="mailto:sahil.maniyar844@gmail.com/">
-      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge"/>
-    </a>
- </div>
-
+[Mail @](mailto:sahil.maniyar844@gmail.com)
 
 
 <!---
