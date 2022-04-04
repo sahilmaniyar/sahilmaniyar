@@ -1,11 +1,12 @@
 
 <div id="header" align="center">
+
    <h1>
     Hey, I'm @sahilmaniyar
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
    <a href="https://myoctocat.dev/@sahilmaniyar/octocat">
-  <img align="center" src="https://raw.githubusercontent.com/{sahilmaniyar}/{.github/images}/{main}/.github/images/{me}.{png}" width=200 />
+  <img align="center" src="https://user-images.githubusercontent.com/99794649/161526869-1e8211de-b278-499c-8495-e4231d6d3505.png" width=200 />
 </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sahilrmaniyar/">
