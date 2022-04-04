@@ -15,9 +15,6 @@
     <a href="https://twitter.com/sahilrmaniyar">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-     <a href="https:mailto:sahil.maniyar844@gmail.com/">
-      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge"/>
-    </a>
   </div>
 </div>
 <div align="center">
@@ -60,8 +57,8 @@
 ### 📫 How to reach me:
 
 
-<div align='center' id="badges">
-    <a href="https:mailto:sahil.maniyar844@gmail.com/">
+<div id="badges">
+    <a href="mailto:sahil.maniyar844@gmail.com/">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge"/>
     </a>
  </div>
