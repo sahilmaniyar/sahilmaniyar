@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
    <a href="https://myoctocat.dev/@sahilmaniyar/octocat">
-  <img align="center" src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png" width=200 />
+  <img align="center" src="https://raw.githubusercontent.com/{sahilmaniyar}/{.github/images}/{main}/.github/images/{me}.{png}" width=200 />
 </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sahilrmaniyar/">
