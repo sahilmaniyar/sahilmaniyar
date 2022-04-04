@@ -59,7 +59,7 @@
 - Mail: [sahil.maniyar844@gmail.com](mailto:sahil.maniyar844@gmail.com)
 <div id="badges">
     <a href="https://www.linkedin.com/in/sahilrmaniyar/">
-      <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge"/>
+      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge"/>
     </a>
    </div>
 
