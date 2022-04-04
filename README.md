@@ -54,9 +54,15 @@
 [![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilmaniyar&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📫 How to reach me
-- LinkedIn: [sahilrmaniyar](https://www.linkedin.com/in/sahilrmaniyar)
+### 📫 How to reach me:
+
 - Mail: [sahil.maniyar844@gmail.com](mailto:sahil.maniyar844@gmail.com)
+<div id="badges">
+    <a href="https://www.linkedin.com/in/sahilrmaniyar/">
+      <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail badge"/>
+    </a>
+   </div>
+
 
 
 <!---
