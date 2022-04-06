@@ -57,7 +57,7 @@
 ### 📫 How to reach me:
 
 
-[Let's talk](mailto:sahil.maniyar844@gmail.com)
+[Let's Chat](mailto:sahil.maniyar844@gmail.com)
 
 
 <!---
